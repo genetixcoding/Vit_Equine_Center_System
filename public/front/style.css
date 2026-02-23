@@ -1,0 +1,10 @@
+.search-bar {
+    width: 40%;
+    margin-left: 5%;
+    margin-top: 2%;
+}
+a {
+    text-decoration: none;
+    text-transform: capitalize;
+}
+

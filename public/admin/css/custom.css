@@ -1,0 +1,44 @@
+/* Add your custom CSS styles here */
+
+body {
+    /* Example style */
+    background-color: #f0f0f0;
+}
+.image {
+    width: 100px;
+    height: 100px;
+}
+
+.form-select {
+    display: block;
+    width: 50%;
+    padding: .375rem 2.25rem .375rem .75rem;
+    margin-bottom: 30px;
+    font-size: 1rem;
+    line-height: 1.3;
+    color: black;
+    background-color: white;
+    background-repeat: no-repeat;
+    background-size: 16px 12px;
+    border: 1x solid #ced4da;
+    border-radius: .25rem;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+
+a {
+    text-decoration: none;
+    text-transform: capitalize;
+  }
+
+  .pages p {
+    padding-top: 10px;
+  }
+  .search-bar {
+    width: 100%;
+    text-decoration: none;
+
+}
+
+/* ...additional custom styles... */
